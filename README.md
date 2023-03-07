@@ -8,13 +8,11 @@
 
 - 🔭 I’m currently working on a **Reading-book application**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascipt** and **Webpack**
 
 - 👨‍💻 All of my projects are available at [samuele-viale.netlify.app](samuele-viale.netlify.app)
 
 - 📝 I regularly write on [https://www.linkedin.com/in/samuele-viale/](https://www.linkedin.com/in/samuele-viale/)
-
-- 💬 Ask me about **HTML&CSS**
 
 - 📫 How to reach me **saleiux99@gmail.com**
 
