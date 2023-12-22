@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascipt** and **Webpack**
 
-- 👨‍💻 All of my projects are available at [samuele-viale.netlify.app](samuele-viale.netlify.app) or here in <a href="https://github.com/Saleiux?tab=repositories">Github</a>
+- 👨‍💻 All of my projects are available at <a href="https://samuele-viale.netlify.app/">My Portfolio </a> or here in <a href="https://github.com/Saleiux?tab=repositories">Github</a>
 
 - 📝 I regularly write on [https://www.linkedin.com/in/samuele-viale/](https://www.linkedin.com/in/samuele-viale/)
 
